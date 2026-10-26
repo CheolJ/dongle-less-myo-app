@@ -14,7 +14,7 @@ This codes are just for the user who needs simple visualizer and data collector.
 ### Kudos
 - [`@Thalmic Labs`](https://github.com/thalmiclabs)
 - [`@iomz`](https://github.com/iomz) (Iori Mizutani)
-- [@JEONGSE0](https://github.com/JEONGSE0) (Jeongseo Jang)
+- [`@JEONGSE0`](https://github.com/JEONGSE0) (Jeongseo Jang)
 
 ### Acknowledgments
 
