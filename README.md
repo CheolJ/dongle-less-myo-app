@@ -15,3 +15,17 @@ This codes are just for the user who needs simple visualizer and data collector.
 - [`@Thalmic Labs`](https://github.com/thalmiclabs)
 - [`@iomz`](https://github.com/iomz) (Iori Mizutani)
 - [@JEONGSE0](https://github.com/JEONGSE0) (Jeongseo Jang)
+
+### Acknowledgments
+
+This project was developed with reference to:
+
+- [dl-myo](https://github.com/iomz/dl-myo)
+  - Dongle-less BLE communication with the Myo Armband.
+- [Myo Bluetooth Protocol](https://github.com/thalmiclabs/myo-bluetooth)
+  - Official BLE protocol specification by Thalmic Labs.
+
+### License
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
