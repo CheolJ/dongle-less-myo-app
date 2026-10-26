@@ -1,0 +1,4 @@
+# ignore base configurations.
+venv/
+__pycache__/
+output/
